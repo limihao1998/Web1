@@ -1,0 +1,92 @@
+*{margin:0px;padding:0px;}
+        .head1{
+           background-image:url(image/t0196c1dc1194ee4e26.jpg);
+           height:200px;
+           opacity:0.8;
+
+        }
+        .h1{
+            position:absolute;
+            top:50px;
+            left:60px;
+        }
+        .h2{
+        background-image:url(image/QQ图片20170615200159.jpg);
+        width:80px;        
+        font-family:楷体;
+        font-size:1em;
+        position:absolute;
+        top:80px;
+        left:300px;
+        font-size:20px;
+
+        }
+        .h3{
+            background-image:url(image/QQ图片20170615200159.jpg);
+        width:85px;        
+        font-family:楷体;
+        font-size:1em;
+        position:absolute;
+        top:80px;
+        left:500px;
+        font-size:20px;
+        }
+        .h4{
+            background-image:url(image/QQ图片20170615200159.jpg);
+        width:85px;        
+        font-family:楷体;
+        font-size:1em;
+        position:absolute;
+        top:80px;
+        left:700px;
+        font-size:20px;
+        }
+        .h5{
+            background-image:url(image/QQ图片20170615200159.jpg);
+        width:85px;        
+        font-family:楷体;
+        font-size:1em;
+        position:absolute;
+        top:80px;
+        left:900px;
+        font-size:20px;
+        }
+        .h6{
+            position:absolute;
+            top:85px;
+            right:80px;
+        }
+        .h7{
+
+          background-color:black;
+          color:white;
+          width:50px;
+          height:25px;
+
+        }
+        
+        a:hover{
+            color:red;
+            text-decoration:none;
+            opacity:1;
+            
+            
+        }
+        
+        
+        .bottom1{
+            background-color:gray;
+            color:black;
+            height:30px;
+
+        }
+        .bottom{
+            background-image:url(image/t0196c1dc1194ee4e26.jpg);
+            height:100px;
+            color:white;
+        }
+        .zi{
+            color:white;
+            text-decoration:none;
+            opacity:0.8;
+        }
